@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Full stack developer: Vesa Lindfors
+Site: http://www.linkedin.com/pub/vesa-lindfors/0/215/a75
+Location: Helsinki, Finland
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Modernizr, Angular
+Software:  DocPad, Stylus, Coffeescript, Karma, Protractor, Jeet
